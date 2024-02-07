@@ -1,13 +1,13 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
+  <img alt="Vue logo" src="@/assets/logo.png" />
   <h1 class="name">Example.com</h1>
   <HelloWorld msg="Hello Vue 3.0 + Vite" />
 </template>
 
 <script lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import "./assets/app.css"
-import info from "./assets/info.json"
+import HelloWorld from '@/components/HelloWorld.vue'
+import "@/assets/app.css"
+import info from "@/assets/info.json"
 
 const tsTest: string = "Vite for Vue 3.0"
 
