@@ -18,6 +18,8 @@ Overall, Vite aims to provide a highly efficient and optimized development exper
 
 * npm init vite-app vite-configure | yarn create vite-app vite-configure
 
+  (create React with Vite: npm init vite my-vite-project -- --template react-ts
+)
   * cd vite-configure
   * npm install (or `yarn`)
   * npm run dev (or `yarn dev`)
