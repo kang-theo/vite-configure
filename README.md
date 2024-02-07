@@ -23,3 +23,5 @@ Overall, Vite aims to provide a highly efficient and optimized development exper
   * cd vite-configure
   * npm install (or `yarn`)
   * npm run dev (or `yarn dev`)
+
+* yarn add -D sass

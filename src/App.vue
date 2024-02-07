@@ -1,5 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
+  <h1 class="name">Example.com</h1>
   <HelloWorld msg="Hello Vue 3.0 + Vite" />
 </template>
 
@@ -21,3 +22,9 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+  .name {
+    color: red;
+  }
+</style>
